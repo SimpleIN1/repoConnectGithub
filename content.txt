@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 test1
-=======
 test
->>>>>>> 41f2e7c... add new file content.txt
